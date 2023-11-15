@@ -26,7 +26,7 @@ COPPA Compliance
 Our game is intended for all age groups. We are committed to complying with the Children’s Online Privacy Protection Act (COPPA). Users are advised that Google AdMob handles data collection for users under the age of 13 according to its own privacy practices.
 
 Policy Updates
-We may update this privacy policy as required. All updates will be posted on our GitHub page, and we encourage users to review this policy periodically.
+We may update this privacy policy as required. All updates will be posted on our GitHub page at https://github.com/joshbenjamin/GrenjaminGamesPrivacyPolicy/blob/main/PrivacyPolicy.txt, and we encourage users to review this policy periodically.
 
 Contact Information
 For any privacy-related questions or concerns, please contact us at me@grenjamingames.com.
