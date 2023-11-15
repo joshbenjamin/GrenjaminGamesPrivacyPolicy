@@ -1,0 +1,41 @@
+Privacy Policy for Solar Roller by GrenjaminGames
+
+Last Updated: 15 November 2023
+
+Introduction
+Welcome to Solar Roller! This privacy policy is intended to inform you about how we handle any data in relation to our game available on the Google Play Store and Apple App Store. Our game is designed to respect your privacy and comply with legal requirements.
+
+Data Collection and Use
+We do not collect any personal data from our users. Our game can be downloaded and played without any need for registration or provision of personal details.
+
+However, we use Google AdMob for serving ads within the game. We do not control the data collection practices of Google AdMob. For more information about what data Google collects and how it is used, please refer to Google’s privacy policy.
+
+Ad Customization
+Google AdMob may use data to provide personalized ads. If personalized ads are served, users will have the option to control ad personalization through their device settings as per Google’s guidelines.
+
+Compliance with Advertising Guidelines
+We comply with the privacy guidelines set by both the Google Play Store and Apple App Store. This includes obtaining user consent where required, especially under regulations like the GDPR for users in the European Union.
+
+Data Security
+As we do not collect personal data, the focus on data security is primarily on ensuring the integrity of the game’s code and preventing unauthorized access or manipulation.
+
+User Consent for Ads
+For users in regions governed by GDPR, we will obtain explicit consent for showing ads when the game is first launched.
+
+COPPA Compliance
+Our game is intended for all age groups. We are committed to complying with the Children’s Online Privacy Protection Act (COPPA). Users are advised that Google AdMob handles data collection for users under the age of 13 according to its own privacy practices.
+
+Policy Updates
+We may update this privacy policy as required. All updates will be posted on our GitHub page, and we encourage users to review this policy periodically.
+
+Contact Information
+For any privacy-related questions or concerns, please contact us at me@grenjamingames.com.
+
+International Data Transfers and Compliance
+We adhere to international data protection laws to the extent that Google AdMob’s data collection practices comply with these laws. For specifics on data handling and transfers, please refer to Google’s privacy policy.
+
+No In-App Purchases
+Our game does not offer in-app purchases, and therefore, we do not collect any financial data from our users.
+
+Analytics and Performance Tracking
+Apart from Google AdMob, we do not use any other analytics or performance tracking tools.
